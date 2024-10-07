@@ -2,7 +2,7 @@
 This repository takes in pulsing or CV data, emission spectrum, hardware quantum efficiency and relevant background scans to find the quantum efficiency of the ECL emission.
 The code and math is detailed extensively in a publication in Analytical Chemistry, named 'Absolute Electrochemiluminescence Efficiency Quantification Strategy Exemplified with Ru(bpy)32+ in the Annihilation Pathway' in 2021. https://pubs.acs.org/doi/abs/10.1021/acs.analchem.1c02403
 
-Many parameters are needed for the successful determination of the quantum efficiency and reading the above text is necessary to use this software efficiently.
+Many parameters are needed for the successful determination of the quantum efficiency and reading the above text is necessary to use this software efficiently. Please reach out to me if you cannot access the manuscript.
 
 This app will perform all of the math discussed in the publication after you supply the relevant information. Example data files are supplied to test the program and pictures are provided below.
 
