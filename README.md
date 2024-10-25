@@ -1,4 +1,7 @@
 # Quantum-Efficiency-Calculator-for-Electrochemiluminescence
+
+This code was made while I was employed at Prof. Zhifeng Ding's lab at Western University as a PhD Student.
+
 This repository takes in pulsing or CV data, emission spectrum, hardware quantum efficiency and relevant background scans to find the quantum efficiency of the ECL emission.
 The code and math is detailed extensively in a publication in Analytical Chemistry, named 'Absolute Electrochemiluminescence Efficiency Quantification Strategy Exemplified with Ru(bpy)32+ in the Annihilation Pathway' in 2021. https://pubs.acs.org/doi/abs/10.1021/acs.analchem.1c02403
 
